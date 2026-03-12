@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-openai
+faiss-cpu
+pypdf
+langchain-google-genai
+streamlit
+python-dotenv
+sentence-transformers 
+langchain-community
